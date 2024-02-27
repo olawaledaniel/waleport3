@@ -1,0 +1,1 @@
+Diamond Recipe is an application that suggests different meal based on the ingredients available to the user.
